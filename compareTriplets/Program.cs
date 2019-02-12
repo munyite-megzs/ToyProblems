@@ -19,10 +19,7 @@ namespace compareTriplets
         
         static void Main(string[] args)
         {
-            //int tempA, tempB;
-            //int[] results;
-            // initialize a list of integers
-
+           
             List<int> annalice = new List<int>();
             List<int> bob = new List<int>();
 
